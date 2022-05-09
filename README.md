@@ -76,7 +76,7 @@ docker run --rm vikramgorla/wad
 #### Detect technologies on a single URL 
 
 ```shell
-docker run -v $(pwd)/:/data --rm vikramgorla/wad -u https://www.google.com
+docker run --rm vikramgorla/wad -u https://www.google.com
 ```
 
 #### Detect technologies on list of urls listed in a file named `urls.txt` and output it to a file named `tech.json` in the local directory on the machine you are running container on
