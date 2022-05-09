@@ -1,4 +1,4 @@
-![example workflow](https://github.com/vikramgorla/wad-docker/actions/workflows/docker-build.yml/badge.svg)
+[![Docker Build](https://github.com/vikramgorla/wad-docker/actions/workflows/docker-build.yml/badge.svg)](https://github.com/vikramgorla/wad-docker/actions/workflows/docker-build.yml)
 
 # WAD - Web application detector
 
