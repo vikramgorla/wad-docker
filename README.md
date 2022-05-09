@@ -106,13 +106,13 @@ http://www.shopify.com
 * [WAD](https://github.com/CERN-CERT/WAD) 
 
 
-## You can see the Dockerfile and dependencies used to build this container at [GitHub](https://github.com/vikramgorla/wad)
+## You can see the Dockerfile and dependencies used to build this container at [GitHub](https://github.com/vikramgorla/wad-docker)
 
 
 ## Versioning
 
 The container tag will be matched to the version of WAD, the current version is based on version `0.4.6` of WAD, see the 
-[tags on this repository](https://github.com/vikramgorla/wad/tags). 
+[tags on this repository](https://github.com/vikramgorla/wad-docker/tags). 
 
 ## Authors
 
