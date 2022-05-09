@@ -1,3 +1,5 @@
+![example workflow](https://github.com/vikramgorla/wad-docker/actions/workflows/docker-build.yml/badge.svg)
+
 # WAD - Web application detector
 
 This is a containerized implementation of [WAD](https://github.com/CERN-CERT/WAD) 

@@ -1,4 +1,4 @@
-name: build-and-push-to-docker-hub
+name: Docker Build
 
 on:
   push:
